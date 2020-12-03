@@ -1,15 +1,8 @@
 # Advent of Code 2020
 My solutions for [Advent of Code 2020](https://adventofcode.com/2020/)!
 
-- [X] [day 1](day_1)
-- [X] [day 2](day_2)
-- [X] [day 3](day_3)
-- [ ] day 4
-- [ ] day 5
-- [ ] day 6
-- [ ] day 7
-- [ ] day 8
-- [ ] day 9
-- [ ] day 10
-- [ ] day 11
-- [ ] day 12
+| Day          | Time     | Rank  |
+| ------------ | -------- | ----- |
+| [3](day_3)   | 00:20:44 | 3217  |
+| [2](day_2)   | 15:03:46 | 54892 |
+| [1](day_1)   | 00:10:37 | 1294  |
