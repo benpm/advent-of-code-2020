@@ -3,7 +3,7 @@ My solutions for [Advent of Code 2020](https://adventofcode.com/2020/)!
 
 - [X] [day 1](day_1)
 - [X] [day 2](day_2)
-- [ ] day 3
+- [X] [day 3](day_3)
 - [ ] day 4
 - [ ] day 5
 - [ ] day 6
