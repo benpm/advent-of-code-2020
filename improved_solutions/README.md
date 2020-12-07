@@ -1,0 +1,2 @@
+# Improved Solutions
+These are improved versions of my original solutions, including changes I made after I had already solved the puzzle. There aren't many comments because I'm trying to make em as short as possible while still readable. I do try to make variable and function names descriptive for these so that comments aren't needed.
