@@ -3,6 +3,7 @@ My solutions for [Advent of Code 2020](https://adventofcode.com/2020/)!
 
 | Day                             | Time     | Rank  |
 | ------------------------------- | -------- | ----- |
+| [15](original_solutions/day_15) | 00:51:24 | 3556  |
 | [14](original_solutions/day_14) | 01:01:32 | 2452  |
 | [13](original_solutions/day_13) | 01:51:47 | 3003  |
 | [12](original_solutions/day_12) | 00:29:16 | 1497  |
