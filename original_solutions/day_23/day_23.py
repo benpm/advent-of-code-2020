@@ -24,7 +24,7 @@ with open("input_23.txt") as input_file:
     j = cups[1]
     l = []
     while j != 1:
-        l.append(j)
+        l.append(str(j))
         j = cups[j]
     print("part A:", "".join(l))
 
